@@ -28,9 +28,14 @@
 * 2张2寸白底彩照
 * 签证表格
 
-> 这个版本是我朋友说的 据说没有拒签率 材料简单 仅供参考 
+> 这个版本是我朋友说的 江浙沪户口即可 据说到现在没有拒签的 材料简单 仅供参考 
 
 <h3 id="malaysia" >马来西亚签证材料</h3>
+
+### 参考资料
+* [马来西亚移民局](https://www.windowmalaysia.my/evisa/vlno_register.jsp?type=register)
+* [2018马来西亚最详细电子签在线申请流程](https://zhuanlan.zhihu.com/p/34917771)
+* [维基百科-馬來西亞簽證政策](https://zh.wikipedia.org/wiki/%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E7%B0%BD%E8%AD%89%E6%94%BF%E7%AD%96)
 
 <h3 id="schengen">申根短期旅游签证(在职人员)</h3>
 <table>
