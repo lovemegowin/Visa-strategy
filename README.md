@@ -11,9 +11,9 @@
 
 <table>
   <tr>
-    <td width="100px">个人资料表</td>
-    <td>原件</td>
-    <td>x1份</td>
+    <td width="120px">个人资料表</td>
+    <td width="80px">原件</td>
+    <td width="60px">x1份</td>
     <td>字迹清晰，填写完整，确保情况属实并签字</td>
     <td>...</td>
   </tr>
