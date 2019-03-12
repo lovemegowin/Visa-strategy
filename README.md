@@ -4,9 +4,8 @@
     * [申根短期旅游签证(在职人员)](#schengen)
 
 <h2 id="visa">签证资料</h2>
-***
-
 <h3 id="japan">日本单次签证所需资料(在职人员)</h3>
+<h4>常规资料</h4>
 
 * 1、	护照（6个月有效期以上）
 * 2、	身份证正反面复印件
@@ -17,12 +16,19 @@
 * 7、	申请人所在公司的营业执照复印件加盖公章
 * 8、	提供财产证明须提供以下六种中的1种或以上 （本领管辖地区） 
     * A、	申请人纳税证明
-    * B、	申请人的6个月以上工资流水单（必须显示工资字样,6500以上）
+    * B、	申请人的6个月以上工资流水单（必须显示工资字样,7500以上）
     * C、	冻结三个月的伍万存款证明原件
     * D、	近半年储蓄卡对账单，余额5万以上
     * E、	房产证复印件+车产证复印件
     * F、	金卡的正反面复印件
 
+<h4>简化材料(仅限江浙沪)</h4>
+
+* 护照原件
+* 2张2寸白底彩照
+* 签证表格
+
+> 这个版本是我朋友说的 据说没有拒签率 材料简单 仅供参考 
 
 <h3 id="malaysia" >马来西亚签证材料</h3>
 
@@ -160,8 +166,8 @@
 </table>
 
 ### 参考资料
-[统一申根签证申请要求及所需材料](http://www.exteriores.gob.es/Consulados/PEKIN/zh/InformacionParaExtranjeros/Paginas/CGPekin/Requisitos-y-documentos-justificativos-para-solicitar-visado-uniforme-Schengen.aspx)
-[办理申根签证所需材料和一些小tips](https://zhuanlan.zhihu.com/p/38246706)
-[FAQ](https://www.schengenvisainfo.com/zh-hans/)
+* [统一申根签证申请要求及所需材料](http://www.exteriores.gob.es/Consulados/PEKIN/zh/InformacionParaExtranjeros/Paginas/CGPekin/Requisitos-y-documentos-justificativos-para-solicitar-visado-uniforme-Schengen.aspx)
+* [办理申根签证所需材料和一些小tips](https://zhuanlan.zhihu.com/p/38246706)
+* [FAQ](https://www.schengenvisainfo.com/zh-hans/)
 
  
